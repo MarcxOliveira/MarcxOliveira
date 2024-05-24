@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrc03_/)
 
 ![Marco Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcxOliveira&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcxOliveira&layout=compact)
 
 ## Tecnologias que suo no meu dia
 
