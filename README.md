@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-## Olá! Eu sou o Marco Oliveira 👨‍💻
+## Olá! Eu sou Marco Oliveira 👨‍💻
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrc03_/)
 
+![Marco Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcxOliveira&show_icons=true&theme=dark)
 
 ## Tecnologias que estudo no meu dia a dia 
 
